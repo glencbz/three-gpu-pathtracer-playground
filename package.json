@@ -1,0 +1,16 @@
+{
+  "name": "three-gpu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.156.0",
+    "three-gpu-pathtracer": "^0.0.16",
+    "vite": "^4.4.9"
+  }
+}
